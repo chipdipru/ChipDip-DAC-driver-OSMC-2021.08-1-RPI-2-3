@@ -23,3 +23,11 @@ RasPi DSP Machine 2 (PCM5242) - https://www.chipdip.ru/product0/9000827686
 <em><strong>5) Reboot system to complete installation</em></strong>
 
 <pre><code>reboot</code></pre>
+
+<em><strong>6) In audio settings choose ChipDip DAC</em></strong>
+
+![OSMC_2021 08 08](https://user-images.githubusercontent.com/43340836/135631002-949b36b1-d867-43ec-ae9f-56dc205ce5ac.jpg)
+
+Then click "SAVE" button.
+
+![OSMC_2](https://user-images.githubusercontent.com/43340836/128342357-5c44f423-9e39-4add-a2b7-df75511d0974.jpg)
