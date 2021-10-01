@@ -7,7 +7,7 @@ sudo cp ChipDip-DAC-driver-OSMC-2021.08-1/chipdip-dac.dtbo /boot/overlays/chipdi
 sudo depmod
 
 if [ ! -f /boot/config-user.txt ]; then
-    sudo touch /boot/config-user.txt
+    sudo > /boot/config-user.txt
 fi
 
 sudo sed -i -e '$adtoverlay=chipdip-dac' /boot/config-user.txt
