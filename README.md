@@ -31,3 +31,5 @@ RasPi DSP Machine 2 (PCM5242) - https://www.chipdip.ru/product0/9000827686
 Then click "SAVE" button.
 
 ![OSMC_2](https://user-images.githubusercontent.com/43340836/128342357-5c44f423-9e39-4add-a2b7-df75511d0974.jpg)
+
+![screenshot00006](https://user-images.githubusercontent.com/43340836/136560650-9a266009-03a2-4659-b87a-7e4c9b0bd79a.png)
