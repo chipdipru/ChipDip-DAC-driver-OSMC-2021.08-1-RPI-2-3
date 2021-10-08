@@ -1,4 +1,4 @@
-# ChipDip DAC Driver installation for OSMC release 2021.08-1 (RasPi2,3)
+# ChipDip DAC Driver installation for OSMC release 2021.08-1 (RPI2,3)
 
 RasPi DSP Machine 1 (ADAU1701) - https://www.chipdip.ru/product0/9000827685
 
